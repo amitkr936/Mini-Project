@@ -1,1 +1,2 @@
-# Mini-Project
+# EmployeePresenceManagementSystem
+EPMS C programming Assignment
